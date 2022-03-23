@@ -1,0 +1,24 @@
+body{
+    background-color:blueviolet;
+}
+
+h1, h2{
+    color:darkblue;
+    text-align: center;
+}
+
+.buttons{
+	display:flex;
+	flex-flow:row nowrap;
+    justify-content:space-around;
+}
+
+.classPlayButtons{
+    width:30%;
+    height: 50px;
+}
+
+
+#idPlayResult{
+    padding: 5%;
+}
