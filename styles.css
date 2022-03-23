@@ -1,8 +1,15 @@
 body{
     background-color:blueviolet;
+    background-image: linear-gradient(to right, blueviolet, rgb(130, 207, 238));
 }
 
-h1, h2{
+h1{
+    color:darkblue;
+    text-align: center;
+    text-shadow: 1px 1px 2px skyblue;
+}
+
+h2{
     color:darkblue;
     text-align: center;
 }
